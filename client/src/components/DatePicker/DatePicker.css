@@ -1,0 +1,13 @@
+.rdrDefinedRangesWrapper {
+  display: none;
+}
+
+.label {
+  /* background-color: #2196f3; */
+  border-radius: 5px;
+  align-items: center;
+  padding: 10px;
+  /* width: 80px; */
+  /* align-self: center;
+  /* justify-self: center;. */
+}

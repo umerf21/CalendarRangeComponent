@@ -1,0 +1,14 @@
+.date {
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 10px;
+  align-self: center;
+  margin-top: 20px;
+  transition: 0.3s;
+  cursor: pointer;
+}
+.date:hover {
+  background-color: darkcyan;
+  border-color: darkcyan;
+  color: white;
+}
